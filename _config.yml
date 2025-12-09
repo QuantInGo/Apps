@@ -1,1 +1,9 @@
 title: "Quantingo Apps"
+
+defaults:
+  - scope:
+      path: "QR-Code-Pro"
+    values:
+      title: "QR Code Pro"
+      nav_order: 2
+
