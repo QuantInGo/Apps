@@ -1,6 +1,7 @@
 ---
 title: "QR Code Pro : Scan & Generate"
 ---
+
 # **Privacy Policy**
 
 test
