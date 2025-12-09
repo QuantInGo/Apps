@@ -1,5 +1,5 @@
 ---
-title: "Quantingo Apps"
+title: "QR Code Pro - Scan & Generate"
 has_children: true
 nav_order: 0
 ---
