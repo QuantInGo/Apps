@@ -1,13 +1,15 @@
 title: "Quantingo Apps"
-
 remote_theme: just-the-docs/just-the-docs
 
 defaults:
   - scope:
       path: "QR-Code-Pro"
     values:
-      title: "QR Code Pro"
+      layout: "app_qrcodepro"
       nav_order: 1
 
-
-
+  - scope:
+      path: "Barcode-Pro"
+    values:
+      layout: "app_barcodepro"
+      nav_order: 2
