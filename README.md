@@ -8,5 +8,6 @@ The purpose of this repository is to standardize, version, and maintain all docu
 ## 🌐 Public Documentation Page
 
 Access all documents directly at:
+
 👉 [https://quantingo.github.io/Apps/](https://quantingo.github.io/Apps/
  
