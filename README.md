@@ -9,5 +9,5 @@ The purpose of this repository is to standardize, version, and maintain all docu
 
 Access all documents directly at:
 
-👉 [https://quantingo.github.io/Apps/](https://quantingo.github.io/Apps/
+👉 [https://quantingo.github.io/Apps/](https://quantingo.github.io/Apps/)
  
