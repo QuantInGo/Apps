@@ -1,4 +1,5 @@
 title: "Quantingo Apps"
+
 theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -6,6 +7,7 @@ plugins:
   - jekyll-include-cache
 
 defaults:
+  # Ativa a sidebar 'docs' em TODAS as páginas
   - scope:
       path: ""
       type: pages
@@ -13,14 +15,18 @@ defaults:
       sidebar:
         nav: "docs"
 
+  # Configura o layout para QR Code Pro
   - scope:
       path: "QR-Code-Pro"
+      type: pages
     values:
       layout: "app_qrcodepro"
       nav_order: 1
 
+  # Configura o layout para Barcode Pro
   - scope:
       path: "Barcode-Pro"
+      type: pages
     values:
       layout: "app_barcodepro"
       nav_order: 2
