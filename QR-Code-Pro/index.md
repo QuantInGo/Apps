@@ -1,8 +1,9 @@
 ---
+title: "Quantingo Apps"
 has_children: true
 nav_order: 0
 ---
 
-# App Documentation
+# Quantingo Apps Documentation
 
 Below you can browse the documentation for every Quantingo App.
