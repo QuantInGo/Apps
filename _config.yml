@@ -1,7 +1,18 @@
 title: "Quantingo Apps"
-remote_theme: mmistakes/minimal-mistakes
+theme: null
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
 
 defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sidebar:
+        nav: "docs"
+
   - scope:
       path: "QR-Code-Pro"
     values:
