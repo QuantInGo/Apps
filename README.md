@@ -1,4 +1,5 @@
 # Quantingo Apps
+---
 Official repository for public documents and institutional assets related to Quantingo Apps.
 
 This repository centralizes all reference materials used across our applications, including Privacy Policies, Terms of Use, legal notices, compliance statements, and other public-facing assets such as approved logos, branding elements, support information, and reference URLs.
