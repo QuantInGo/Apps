@@ -1,0 +1,8 @@
+docs:
+  - title: QR Code Pro
+    url: /QR-Code-Pro/
+    children:
+      - title: Privacy Policy
+        url: /QR-Code-Pro/PrivacyPolicy/
+      - title: Terms & Conditions
+        url: /QR-Code-Pro/TermsAndConditions/
