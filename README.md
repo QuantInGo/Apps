@@ -11,4 +11,10 @@ The purpose of this repository is to standardize, version, and maintain all docu
 Access all documents directly at:
 
 👉 [https://quantingo.github.io/Apps/](https://quantingo.github.io/Apps/)
+
+---
+## [QR Barcode Pro : Scan & Generate](https://quantingo.github.io/Apps/QR-Code-Pro/)
+- [Privacy Policy](https://quantingo.github.io/Apps/QR-Code-Pro/PrivacyPolicy)
+- [Terms and Conditions](https://quantingo.github.io/Apps/QR-Code-Pro/TermsAndConditions)
+
  
