@@ -1,3 +1,6 @@
+---
+title: "QR Code Pro : Scan & Generate"
+---
 # **Privacy Policy**
 
 This privacy policy applies to the QR Code Pro - Scan & Generate app (hereby referred to as "Application") for mobile devices that was created by Quantingo (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
