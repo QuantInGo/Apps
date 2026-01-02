@@ -1,10 +1,10 @@
 ---
-title: "QR Code Pro : Scan & Generate"
+title: "Barcode Pro : Scan & Generate"
 ---
 
 **Terms & Conditions**  
 
-These terms and conditions apply to the QR Code Pro - Scan & Generate app (hereby referred to as "Application") for mobile devices that was created by Quantingo (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions apply to the Barcode Pro - Scan & Generate app (hereby referred to as "Application") for mobile devices that was created by Quantingo (hereby referred to as "Service Provider") as a Freemium service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 
