@@ -13,6 +13,10 @@ Access all documents directly at:
 👉 [https://quantingo.github.io/Apps/](https://quantingo.github.io/Apps/)
 
 ---
-## [QR Barcode Pro : Scan & Generate](https://quantingo.github.io/Apps/QR-Code-Pro/)
+## [QR Code Pro : Scan & Generate](https://quantingo.github.io/Apps/QR-Code-Pro/)
 - [Privacy Policy](https://quantingo.github.io/Apps/QR-Code-Pro/PrivacyPolicy)
 - [Terms and Conditions](https://quantingo.github.io/Apps/QR-Code-Pro/TermsAndConditions)
+
+## [Barcode Pro : Scan & Generate](https://quantingo.github.io/Apps/Barcode-Pro/)
+- [Privacy Policy](https://quantingo.github.io/Apps/Barcode-Pro/PrivacyPolicy)
+- [Terms and Conditions](https://quantingo.github.io/Apps/Barcode-Pro/TermsAndConditions)
