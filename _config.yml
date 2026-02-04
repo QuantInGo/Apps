@@ -20,3 +20,11 @@ defaults:
     values:
       layout: "app_barcodepro"
       nav_order: 2
+
+  # Configura o layout para Numerix
+  - scope:
+      path: "Numerix"
+      type: pages
+    values:
+      layout: "app_numerix"
+      nav_order: 3
