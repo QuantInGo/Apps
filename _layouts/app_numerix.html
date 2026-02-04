@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% assign app_title = "Numerix" %}
+{% assign app_base_url = "/Apps/Numerix/" %}
+{% assign root_url = "/Apps/" %}
+{% assign up_url = "/../" %}
+
+<!-- Título como link -->
+<!-- <h1>
+  <a href="{{ app_base_url }}">{{ app_title }}</a>
+</h1> -->
+
+<h1 style="color:#2196F3">
+  {{ app_title }}
+</h1>
+
+<!-- Link "Up" -->
+<p style="margin-top: 0px;">
+  <a href="{{ app_base_url }}">⬆ Up</a>
+</p>
+
+<!-- Conteúdo da página -->
+<hr>
+{{ content }}
