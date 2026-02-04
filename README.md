@@ -20,3 +20,7 @@ Access all documents directly at:
 ## [Barcode Pro : Scan & Generate](https://quantingo.github.io/Apps/Barcode-Pro/)
 - [Privacy Policy](https://quantingo.github.io/Apps/Barcode-Pro/PrivacyPolicy)
 - [Terms and Conditions](https://quantingo.github.io/Apps/Barcode-Pro/TermsAndConditions)
+
+## [Numerix](https://quantingo.github.io/Apps/Numerix/)
+- [Privacy Policy](https://quantingo.github.io/Apps/Numerix/PrivacyPolicy)
+- [Terms and Conditions](https://quantingo.github.io/Apps/Numerix/TermsAndConditions)
