@@ -24,3 +24,7 @@ Access all documents directly at:
 ## [Numerix](https://quantingo.github.io/Apps/Numerix/)
 - [Privacy Policy](https://quantingo.github.io/Apps/Numerix/PrivacyPolicy)
 - [Terms and Conditions](https://quantingo.github.io/Apps/Numerix/TermsAndConditions)
+
+## [Bounce Ball](https://quantingo.github.io/Apps/Bounce-Ball/)
+- [Privacy Policy](https://quantingo.github.io/Apps/Bounce-Ball/PrivacyPolicy)
+- [Terms and Conditions](https://quantingo.github.io/Apps/Bounce-Ball/TermsAndConditions)
