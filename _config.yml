@@ -28,3 +28,11 @@ defaults:
     values:
       layout: "app_numerix"
       nav_order: 3
+
+  # Configura o layout para Bounce Ball
+  - scope:
+      path: "Bounce-Ball"
+      type: pages
+    values:
+      layout: "app_bounceball"
+      nav_order: 4
