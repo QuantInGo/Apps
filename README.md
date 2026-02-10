@@ -28,3 +28,7 @@ Access all documents directly at:
 ## [Bounce Ball](https://quantingo.github.io/Apps/Bounce-Ball/)
 - [Privacy Policy](https://quantingo.github.io/Apps/Bounce-Ball/PrivacyPolicy)
 - [Terms and Conditions](https://quantingo.github.io/Apps/Bounce-Ball/TermsAndConditions)
+
+## [Momentum](https://quantingo.github.io/Apps/Momentum/)
+- [Privacy Policy](https://quantingo.github.io/Apps/Momentum/PrivacyPolicy)
+- [Terms and Conditions](https://quantingo.github.io/Apps/Momentum/TermsAndConditions)
